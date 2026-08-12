@@ -5,4 +5,4 @@ st.title("My Streamlit App")
 
 st.divider()
 
-st.image(os.path.join("static", "BG.jpg"))
+st.image(os.path.join("static", "me.jpg"))
